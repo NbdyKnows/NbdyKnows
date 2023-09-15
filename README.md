@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Claudio</h1>
+<h1 align="center">Hi 👋, I'm Claudio</h1>
 <h3 align="center">A passionate frontend, backend and movile developer from Peru</h3>
 
 
